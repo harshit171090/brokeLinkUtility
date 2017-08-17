@@ -1,1 +1,1 @@
-web node npm install broken-link-checker -g
+web npm install broken-link-checker -g
